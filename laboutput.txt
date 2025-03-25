@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: dsangraula
+    Linux system name: dsangraula-virtual-machine
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/dsangraula/ops445/lab8/lab-7-dsangraula
+    Start at: Tue Mar 25 17:29:55 2025
+=================================================================
